@@ -1,4 +1,4 @@
-# Anon-FTP-CHECK
+# Verify-FTP_Anonymous
 
 Este script de Python  verificar de forma automatizada la existencia de servidores FTP que permiten la conexión anónima (anonymous) sin necesidad de ingresar credenciales de autenticación.
 
