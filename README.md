@@ -4,8 +4,8 @@ Este script de Python permite verificar de forma automatizada la existencia de s
 
 El script utiliza una lista de direcciones IP como entrada y realiza la verificación de manera secuencial, generando una salida en la terminal que indica si el servidor FTP en cada dirección IP especificada tiene activada la opción de conexión anónima.
 
-**Uso:**
+## **Uso:**
 
 Para ejecutar el script, es necesario tener instalado Python 3 en el equipo. Una vez instalado, se puede ejecutar el script mediante el comando:
 
-*** ***[+] python3 anonftp.py <archivo_de_ips.txt>*** ***
+[+] python3 anonftp.py <archivo_de_ips.txt>
