@@ -8,4 +8,6 @@ El script utiliza una lista de direcciones IP como entrada y realiza la verifica
 
 Para ejecutar el script, es necesario tener instalado Python 3 en el equipo. Una vez instalado, se puede ejecutar el script mediante el comando:
 
+```
 [+] python3 anonftp.py <archivo_de_ips.txt>
+```
